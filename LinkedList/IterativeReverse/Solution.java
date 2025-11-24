@@ -1,4 +1,4 @@
-package LinkedList.Reverse;
+package LinkedList.IterativeReverse;
 
 import LinkedList.ListNode;
 
